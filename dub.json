@@ -1,0 +1,11 @@
+{
+	"name": "apicaller",
+	"description": "A minimal D tool related with Twitter API",
+	"copyright": "Copyright © 2016, alphakai",
+  "license": "MIT",
+	"authors": ["alphaKAI"],
+	"dependencies": {
+	  "twitter4d":"*"
+  },
+	"dflags":["-m64"]
+}
