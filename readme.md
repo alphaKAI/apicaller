@@ -1,8 +1,8 @@
 #Console Twitter API Caller
 
 #What's this
-A minimal tool in D related with Twitter API.  
-You can call Twitter API way on your console.  
+A minimal tool in D which dealing with Twitter API.  
+You can call Twitter API on your console.  
   
   
 #Requirements
@@ -18,7 +18,7 @@ You can call Twitter API way on your console.
 % dub build
 ```
   
-Note: Before `dub build` please replace ConsumerKyes and AccessTokens in `source/app.d`.  
+Note: Before `dub build`, please replace ConsumerKyes and AccessTokens in `source/app.d`.  
 If you don't have your ConsumerKeys, you should take your ConsumerKey at first.  
 If you don't have your AccessTokens of your ConsumerKey, you can take it by my tool. cf. [AccessTokenGetter](https://github.com/alphaKAI/accessTokenGetter)  
   
